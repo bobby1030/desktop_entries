@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=Franz
+Comment=A Multi-Services Message Application.
+Exec=/opt/Franz-linux-x64/Franz
+Path=/opt/Franz-linux-x64
+Icon=/opt/Franz-linux-x64/franz.png
+Terminal=false
+Type=Application
+Categories=Office;Application;

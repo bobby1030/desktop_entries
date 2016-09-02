@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Spotify Lyrics
+Comment=A Lyrics Client For Spotify Desktop
+Exec=python3 /opt/spotifylyrics/SpotifyLyrics.pyw
+Icon=/opt/spotifylyrics/icon.png
+Terminal=false
+Type=Application
+Categories=AudioVideo
