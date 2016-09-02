@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=Abricotine
+Comment=
+Exec=/opt/Abricotine/Abricotine %u
+Icon=/opt/Abricotine/icons/abricotine.svg
+Terminal=False
