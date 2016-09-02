@@ -1,2 +1,2 @@
-# desktop_entries
+# Desktop Entries
 My FreeDesktop Desktop Entry Collection
